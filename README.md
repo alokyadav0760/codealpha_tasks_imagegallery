@@ -1,0 +1,1 @@
+This an image gallery webpage . i used html ,css and javascript in this to complete this little project. this is my starting of web development journey . in this you can view different imagesa nd make them see large and like a mobile gallery also
